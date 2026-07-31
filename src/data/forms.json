@@ -1,0 +1,188 @@
+[
+ {
+  "id": "tumbled",
+  "name_en": "Tumbled Stones",
+  "name_zh": "滚石",
+  "desc_en": "Pocket-friendly, tumbled silky smooth — the entry point of every crystal journey and the backbone of live-sale scoop bins.",
+  "desc_zh": "圆润顺滑的口袋石——多数人的第一颗水晶，也是直播捞石桶的绝对主角。",
+  "images": [
+   "/images/forms/tumbled/supplier-carnelian-tumbled-1.jpg",
+   "/images/forms/tumbled/supplier-carnelian-tumbled-2.jpg",
+   "/images/forms/tumbled/supplier-carnelian-tumbled-3.jpg",
+   "/images/forms/tumbled/supplier-carnelian-tumbled-4.jpg",
+   "/images/forms/tumbled/supplier-cobra-jasper-tumbled-1.jpg",
+   "/images/forms/tumbled/supplier-cobra-jasper-tumbled-2.jpg",
+   "/images/forms/tumbled/supplier-cobra-jasper-tumbled-3.jpg",
+   "/images/forms/tumbled/tumbled-amethyst-1.jpg",
+   "/images/forms/tumbled/tumbled-amethyst-2.jpg",
+   "/images/forms/tumbled/tumbled-mix-1.jpg",
+   "/images/forms/tumbled/tumbled-mix-2.jpg",
+   "/images/forms/tumbled/tumbled-mix-3.jpg",
+   "/images/forms/tumbled/tumbled-rosequartz-1.jpg",
+   "/images/forms/tumbled/tumbled-rosequartz-2.jpg",
+   "/images/forms/tumbled/tumbled-tigereye-1.jpg",
+   "/images/forms/tumbled/tumbled-tigereye-2.jpg"
+  ]
+ },
+ {
+  "id": "towers",
+  "name_en": "Towers & Points",
+  "name_zh": "晶柱与尖塔",
+  "desc_en": "Polished points that collectors use to \"direct energy upward\"; the single best-selling display form in US crystal shops.",
+  "desc_zh": "美国水晶店最畅销的陈设形态；藏家相信尖塔能向上引导能量。",
+  "images": [
+   "/images/forms/towers/supplier-fluorite-tower-1.jpg",
+   "/images/forms/towers/supplier-fluorite-tower-2.jpg",
+   "/images/forms/towers/supplier-fluorite-tower-3.jpg",
+   "/images/forms/towers/supplier-fluorite-tower-4.jpg",
+   "/images/forms/towers/tower-clearquartz-1.jpg",
+   "/images/forms/towers/tower-clearquartz-2.jpg",
+   "/images/forms/towers/tower-clearquartz-3.jpg",
+   "/images/forms/towers/tower-fluorite-1.jpg",
+   "/images/forms/towers/tower-fluorite-2.jpg",
+   "/images/forms/towers/tower-obelisk-1.jpg",
+   "/images/forms/towers/tower-obelisk-2.jpg",
+   "/images/forms/towers/tower-selenite-1.jpg",
+   "/images/forms/towers/tower-selenite-2.jpg",
+   "/images/forms/towers/tower-smokyquartz-1.png",
+   "/images/forms/towers/tower-smokyquartz-2.jpg"
+  ]
+ },
+ {
+  "id": "clusters",
+  "name_en": "Clusters & Geodes",
+  "name_zh": "晶簇与晶洞",
+  "desc_en": "Natural crystal families still growing together — centerpiece-grade specimens for shelves, altars and studio backdrops.",
+  "desc_zh": "天然共生、仍簇拥生长的晶体家族——书架、祭坛与直播间背景的镇场之选。",
+  "images": [
+   "/images/forms/clusters/cluster-amethyst-1.jpg",
+   "/images/forms/clusters/cluster-amethyst-2.jpg",
+   "/images/forms/clusters/cluster-amethyst-3.jpg",
+   "/images/forms/clusters/cluster-citrine-1.jpg",
+   "/images/forms/clusters/cluster-citrine-2.jpg",
+   "/images/forms/clusters/cluster-clearquartz-1.jpg",
+   "/images/forms/clusters/cluster-clearquartz-2.jpg",
+   "/images/forms/clusters/cluster-geode-1.jpg",
+   "/images/forms/clusters/cluster-geode-2.jpg",
+   "/images/forms/clusters/cluster-geode-3.jpg"
+  ]
+ },
+ {
+  "id": "raw",
+  "name_en": "Raw & Rough",
+  "name_zh": "原石",
+  "desc_en": "Straight from the earth, untouched by polish — prized by collectors who want the stone as nature made it.",
+  "desc_zh": "未经打磨、带着泥土气息的本真形态——深受\"就要自然原貌\"的藏家喜爱。",
+  "images": [
+   "/images/forms/raw/raw-blacktourmaline-1.jpg",
+   "/images/forms/raw/raw-blacktourmaline-2.jpg",
+   "/images/forms/raw/raw-fluorite-1.jpg",
+   "/images/forms/raw/raw-fluorite-2.jpg",
+   "/images/forms/raw/raw-labradorite-1.jpg",
+   "/images/forms/raw/raw-labradorite-2.jpg",
+   "/images/forms/raw/raw-obsidian-1.jpg",
+   "/images/forms/raw/raw-obsidian-2.jpg",
+   "/images/forms/raw/raw-quartz-1.jpg",
+   "/images/forms/raw/raw-quartz-2.jpg",
+   "/images/forms/raw/raw-selenite-1.jpg",
+   "/images/forms/raw/raw-selenite-2.jpg"
+  ]
+ },
+ {
+  "id": "spheres",
+  "name_en": "Spheres",
+  "name_zh": "水晶球",
+  "desc_en": "Perfectly rounded, said in the community to radiate energy evenly in all directions; a classic scrying and decor form.",
+  "desc_zh": "浑圆无缺；社群相信它能向四面八方均匀散发能量，也是经典的占卜与陈设形态。",
+  "images": [
+   "/images/forms/spheres/sphere-amethyst-b-1.jpg",
+   "/images/forms/spheres/sphere-amethyst-b-2.jpg",
+   "/images/forms/spheres/sphere-mineral-b-1.jpg",
+   "/images/forms/spheres/sphere-mineral-b-2.jpg",
+   "/images/forms/spheres/sphere-quartz-b-1.jpg",
+   "/images/forms/spheres/sphere-quartz-b-2.jpg",
+   "/images/forms/spheres/sphere-selenite-1.jpg",
+   "/images/forms/spheres/sphere-selenite-2.jpg"
+  ]
+ },
+ {
+  "id": "palm-stones",
+  "name_en": "Palm Stones",
+  "name_zh": "掌心石",
+  "desc_en": "Shaped to fit the hand — meditation companions and \"worry stones\" for anxious moments.",
+  "desc_zh": "贴合掌心的弧度——冥想伴侣，也是紧张时刻的\"解压石\"。",
+  "images": [
+   "/images/forms/palm-stones/palm-agateslice-1.jpg",
+   "/images/forms/palm-stones/palm-agateslice-2.jpg",
+   "/images/forms/palm-stones/palm-labradorite-1.jpg",
+   "/images/forms/palm-stones/palm-labradorite-2.jpg",
+   "/images/forms/palm-stones/palm-labradorite-3.jpg",
+   "/images/forms/palm-stones/palm-polished-1.jpg",
+   "/images/forms/palm-stones/palm-polished-2.jpg",
+   "/images/forms/palm-stones/palm-rosequartz-1.jpg",
+   "/images/forms/palm-stones/palm-rosequartz-2.jpg"
+  ]
+ },
+ {
+  "id": "carvings",
+  "name_en": "Carvings",
+  "name_zh": "雕件",
+  "desc_en": "Skulls, animals, hearts and angels — where lapidary craft meets gift culture and collector display.",
+  "desc_zh": "骷髅、动物、爱心与天使——宝石工艺、礼赠文化与收藏陈列的交汇点。",
+  "images": [
+   "/images/forms/carvings/carving-agate-1.jpg",
+   "/images/forms/carvings/carving-agate-2.jpg",
+   "/images/forms/carvings/carving-animal-1.jpg",
+   "/images/forms/carvings/carving-animal-2.jpg",
+   "/images/forms/carvings/carving-jade-1.jpg",
+   "/images/forms/carvings/carving-jade-2.jpg",
+   "/images/forms/carvings/carving-skull-1.jpg",
+   "/images/forms/carvings/carving-skull-2.jpg"
+  ]
+ },
+ {
+  "id": "chips",
+  "name_en": "Chips & Gravel",
+  "name_zh": "碎石与砾石",
+  "desc_en": "Undrilled chips sold by the scoop — candle-making, planters, resin crafts and budget-friendly scoop bins.",
+  "desc_zh": "按勺称重的散碎石——蜡烛、盆栽、滴胶手工的百搭材料，也是平价捞石桶主力。",
+  "images": [
+   "/images/forms/chips/chips-beads-1.jpg",
+   "/images/forms/chips/chips-crushed-1.jpg",
+   "/images/forms/chips/chips-crushed-2.jpg",
+   "/images/forms/chips/chips-gravel-1.jpg",
+   "/images/forms/chips/chips-gravel-2.jpg"
+  ]
+ },
+ {
+  "id": "mystery-mix",
+  "name_en": "Mystery Mix",
+  "name_zh": "盲盒混装",
+  "desc_en": "Assorted scoop mixes and chakra sets — the gamified format that powers TikTok-era crystal retail.",
+  "desc_zh": "什锦混装与脉轮套装——TikTok 时代水晶零售的游戏化引擎。",
+  "images": [
+   "/images/forms/mystery-mix/mix-assorted-1.jpg",
+   "/images/forms/mystery-mix/mix-assorted-2.jpg",
+   "/images/forms/mystery-mix/mix-assorted-3.jpg",
+   "/images/forms/mystery-mix/mix-chakra-1.jpg",
+   "/images/forms/mystery-mix/mix-chakra-2.jpg",
+   "/images/forms/mystery-mix/mix-minerals-1.jpg",
+   "/images/forms/mystery-mix/mix-minerals-2.jpg"
+  ]
+ },
+ {
+  "id": "bracelets",
+  "name_en": "Bracelets",
+  "name_zh": "手串",
+  "desc_en": "Wearable intention — the #1 gift form, and the entry price point for most first-time buyers.",
+  "desc_zh": "可穿戴的心意——排名第一的礼品形态，也是大多数新买家的入门价位。",
+  "images": [
+   "/images/forms/bracelets/bracelet-amethyst-1.jpg",
+   "/images/forms/bracelets/bracelet-amethyst-2.jpg",
+   "/images/forms/bracelets/bracelet-beads-1.jpg",
+   "/images/forms/bracelets/bracelet-tigereye-1.jpg",
+   "/images/forms/bracelets/bracelet-tigereye-2.jpg",
+   "/images/forms/bracelets/supplier-rosequartz-bracelet-1.jpg"
+  ]
+ }
+]
